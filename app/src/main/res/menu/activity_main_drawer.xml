@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/info"
+            android:title="Informação pessoa" />
+        <item
+            android:id="@+id/form"
+            android:title="Formação" />
+        <item
+            android:id="@+id/xp"
+            android:title="Experiência profissional" />
+        <item
+            android:id="@+id/cursos"
+            android:title="Cursos" />
+        <item
+            android:id="@+id/pub"
+            android:title="Publicações" />
+    </group>
+
+
+
+
+</menu>

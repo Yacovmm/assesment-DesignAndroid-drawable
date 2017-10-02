@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Perfil</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="publicacoes">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis aliquam eu arcu non posuere. Integer vehicula rhoncus purus, elementum eleifend tellus finibus id. Cras egestas nunc a mauris pellentesque, at consequat leo vulputate. Proin condimentum egestas libero, eget tincidunt diam feugiat commodo. Aliquam lacinia sed lorem sit amet laoreet. Nunc malesuada tincidunt lacinia. Morbi maximus, magna nec aliquam pulvinar, nibh urna tincidunt lorem, at aliquet nisl dolor dignissim odio. Vestibulum non malesuada orci.
+
+Fusce a arcu eu arcu rhoncus vestibulum. Maecenas pulvinar felis et urna laoreet, convallis vestibulum mi mollis. Integer imperdiet quis leo ut molestie. Aliquam pellentesque diam quis sollicitudin volutpat. Interdum et malesuada fames ac ante ipsum primis in faucibus. Donec interdum imperdiet accumsan. Sed vel ante sit amet ex efficitur volutpat. Duis urna eros, ultricies vitae ligula nec, efficitur egestas libero. Etiam dapibus neque ut eros gravida molestie. Aenean vestibulum maximus bibendum. Sed blandit posuere iaculis. Curabitur nec arcu sollicitudin, venenatis diam sed, mollis lorem. Proin tincidunt efficitur tellus, id sodales est dictum ac. Sed risus dui, suscipit vel turpis in, sollicitudin iaculis lacus. Vivamus bibendum nunc ac eros gravida porta.
+
+Fusce tincidunt vulputate mattis. Suspendisse malesuada feugiat tellus, nec eleifend ipsum tristique vel. Sed et porttitor orci. In pretium pellentesque mi, vulputate posuere nisi viverra et. Mauris lectus dui, posuere sit amet ultricies eget, molestie eget justo. Duis blandit diam ut consequat dictum. Curabitur sit amet ullamcorper enim. Fusce rhoncus et risus sit amet lacinia. Phasellus sollicitudin quam suscipit nunc bibendum sodales.
+
+Aliquam auctor urna eu vulputate imperdiet. Nam dolor metus, ultricies quis posuere eu, euismod at orci. Etiam eu ligula massa. Duis viverra, risus quis interdum bibendum, nibh metus luctus purus, non finibus risus purus a magna. Maecenas ex leo, molestie eu erat vitae, sodales consequat justo. Phasellus at iaculis ante. Nunc a tellus faucibus, lobortis lorem ut, faucibus purus. Aliquam a magna quis felis faucibus luctus ac vel neque. Nulla non aliquam mi. Mauris auctor, justo et ullamcorper scelerisque, justo purus cursus erat, vel aliquam ligula eros at urna. Nam purus eros, tincidunt luctus augue nec, maximus ultricies elit. Donec porta quam sed ante semper fringilla. Quisque vitae egestas mauris. Morbi nec vehicula est.
+
+Ut ac velit varius augue efficitur vulputate vitae eleifend diam. Quisque dui quam, efficitur quis sem et, cursus ultricies purus. Nam a porttitor risus, eget accumsan mi. Maecenas et accumsan augue, a pulvinar velit. Aliquam a lectus felis. Donec venenatis ultricies dignissim. Phasellus lectus risus, hendrerit eu nunc non, tempor eleifend magna. Maecenas tincidunt dui at finibus scelerisque. Etiam ultricies dictum ipsum nec egestas. Etiam nec turpis sit amet libero volutpat porta nec at ante.
+    </string>
+    <string name="action_settings">Settings</string>
+</resources>
